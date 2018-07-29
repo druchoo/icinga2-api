@@ -68,7 +68,7 @@ GET /types/<objectname>
 
 ## Usage
 
-```
+```python
 from icinga2_api.api import Api
 from pprint import pprint
 
